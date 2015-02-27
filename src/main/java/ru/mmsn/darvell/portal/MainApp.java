@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 
 /**
  * Главный класс приложения. Он всё будет запускать
+ * Воу воу воу
  */
 public class MainApp extends Application {
 
