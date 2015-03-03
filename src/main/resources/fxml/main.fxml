@@ -20,6 +20,6 @@
       </font>
     </Label>
     <TextField layoutX="236.0" layoutY="113.0" prefWidth="200.0" />
-    <Button layoutX="370.0" layoutY="154.0" mnemonicParsing="false" text="Login" />
+    <Button fx:id="loginButton" layoutX="370.0" layoutY="154.0" mnemonicParsing="false" onMouseClicked="#onClickMethod" text="Login" />
   </children>
 </AnchorPane>

@@ -23,3 +23,10 @@ release.properties
 hs_err_pid*
 
 
+
+.idea/libraries/Maven__org_javafxdata_datafx_core_8_0b5.xml
+.idea/libraries/Maven__org_javafxdata_datafx_flow_8_0b5.xml
+.idea/libraries/Maven__javax_inject_javax_inject_1.xml
+.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml
+.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml
+.idea/workspace.xml
