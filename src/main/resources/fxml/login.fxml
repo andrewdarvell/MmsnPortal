@@ -16,10 +16,12 @@
     </Label>
     <Label layoutX="159.0" layoutY="113.0" text="Login">
       <font>
-        <Font size="15.0" />
+        <Font size="15.0" fx:id="x1" />
       </font>
     </Label>
     <TextField layoutX="236.0" layoutY="113.0" prefWidth="200.0" />
-    <Button fx:id="loginButton" layoutX="370.0" layoutY="154.0" mnemonicParsing="false" onMouseClicked="#onClickMethod" text="Login" />
+    <Button fx:id="loginButton" layoutX="370.0" layoutY="207.0" mnemonicParsing="false" onMouseClicked="#onClickMethod" text="Login" />
+    <Label font="$x1" layoutX="159.0" layoutY="155.0" text="Password" />
+    <TextField layoutX="236.0" layoutY="155.0" prefWidth="200.0" />
   </children>
 </AnchorPane>

@@ -1,4 +1,4 @@
-package ru.mmsn.darvell.portal.forms.main;
+package ru.mmsn.darvell.portal.forms.login;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 /**
  * Контроллер к главной форме
  */
-public class ControllerMain{
+public class ControllerLogin {
 
 	@FXML
 	private Button loginButton;
